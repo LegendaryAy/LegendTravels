@@ -124,7 +124,7 @@ span{
 /*cities*/
 .city-images{
     padding:40px;
-    background-color: #FA8C0F;
+    background-color: rgb(223, 217, 211);
     color: #2E3138; 
 }
 .cities{
@@ -136,6 +136,7 @@ span{
     width: 30%;
     margin-bottom: 25px;
     background-color: #fbfbfb;
+    box-shadow: 5px 10px 8px #888888;
 }
 .city-image img{
     width:100%;
